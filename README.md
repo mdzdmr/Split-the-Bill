@@ -2,11 +2,11 @@
 
 ## Introduction
 
-"Split the Bill" is a project designed to help users fairly divide the cost of a meal at a restaurant when it's unclear who ordered what. This situation often arises during group meals where the billing can get complicated. This project provides a software solution that calculates potential item groupings that each person can pay for to meet predetermined payment amounts.
+"Split the Bill" is a project designed to help users fairly divide the cost of a meal at a restaurant when it's unclear who ordered what. This situation often arises during group meals where the billing can get complicated. This project provides a solution that calculates potential item groupings that each person can pay for to meet predetermined payment amounts.
 
 ## Project Background
 
-In scenarios where patrons of a restaurant need to split the bill but prefer not to divide it evenly due to personal budget constraints, our software provides a way to allocate whole items to individuals such that the total paid by each person aligns with agreed amounts. The algorithm uses a recursive approach to determine feasible splits if they exist.
+In scenarios where patrons of a restaurant need to split the bill but prefer not to divide it evenly due to personal budget constraints, this program provides a way to allocate whole items to individuals such that the total paid by each person aligns with agreed amounts. The algorithm uses a recursive approach to determine feasible splits if they exist.
 
 ## Features
 
